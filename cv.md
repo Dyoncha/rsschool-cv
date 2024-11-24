@@ -42,3 +42,9 @@ function squareDigits(num){
     .join(''))
 }
 ```
+
+## **Languages**
+
+Russian - native  
+Ukrainian - native  
+English - intermediate  
